@@ -1,0 +1,15 @@
+POST http://localhost:8081/api/cart/total
+Content-Type: application/json
+
+[
+  {
+    "id": 1,
+    "quantity": 3
+  },
+  {
+    "id": 2,
+    "quantity": 2
+  }
+]
+
+###

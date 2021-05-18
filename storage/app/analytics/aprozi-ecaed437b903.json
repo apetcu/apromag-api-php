@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aprozi",
+  "private_key_id": "ecaed437b90386f97ae63467c7e5fc4aeb7ae5b8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjvxqWIlIcwAgG\nVORx/jrj6bNgY/INGXhCpEAebk0vT4O8Enc9nmP3HndElV/SwRoW8tAoG3xMPXTZ\nq8kM5fALpOhlNx/bkxMTbs8OHQDIELE0SQArLnE2dZQ4CcDdCYU1MmBRm4mmsE6K\nnUZxlKThJuFV4pSJh15XRHBJAXjYUA6yQeBBmmBGnMZhkerK13F9WJ+RC8Nav8LD\n99rTrnDx+B4Zili1jUmnegf26r5ZGyTuoX0xzwKtrKViI66D4dVH01w+t3mL6B34\naOUJZtEJ71EGnVh/ziyaVq1vLkfV5G2B0sOEL308e/mILi7gENggvbq8JVhju3Zw\nQiJv+So9AgMBAAECggEAKXblkRoMx/n6rjvGA3W4zOjrgt+cNiP6d4mnMO2GfxH4\nDmJwrnpS3wtocUYQF0rNw/zlqBpZreasFcix5yG82P3/2U2NtCj4niWjqfO/NGpB\nrTdFIyomAf/hMhWKMI7OHAvvJwsnXr3rjZ9I7M8St28EhZ6UNYVBZwDOHDaStteb\nKJ1rivGF9fZCLhCy5ya7V6JUeDFoHszfbtWjCH47jTuDfeCvsFB9FI8cdq/k3rQn\nHh4b5742E8ZoGHb+QnY7h6qozJGt1hkbuwDG3uM53YgoauIFRXYe5fo0gOhcTjrh\nAmmj18YYN3qmZaHcevLsQIqK03ddQOFpwwGiKFbGEwKBgQDW7Bp7FhIVxkTRkiNg\nkSVEQXRos+j8vmi2y+Vi4eWZDA8HiY4CUnGiy+96j5M00kkfZM+kxQTlfTowynUe\nyzm3xIF4au/GsphkTIm4XtuqfXYF4nfVt7rUli0HPfqDTW6j2U0p2dbLSk0AgJ3Y\n8rxfVz6BB/U6L+kOwPaHHee5jwKBgQDDCwd4C7M5AjXowfeFq1oKhSVw5URmPfrn\niaMkX3FktrLY6iWrh7vnsRgPq6hYQUHQzv5XSiIs5Jsmn9sxVMRAj+WR7YS6isd4\nolqZSujOCfCTJ/8JT5IB/g1th/96etIfj3nFuxGuqMAtqnzjvXEdU+K3cpwSkUrZ\nFtnOvETBcwKBgG12lUophI6IjBZ9Kv2ND4EDIWoOb9UCmcy4bp19VnYr2R/KpIR0\nPyJeYht3Ms+NZubRbpyKKCNGM7QT+bD0avI46IRPWs5Fui4jeWVpEtJz0f/PR5+X\nU1XhIw/0NjpX3ske7RkqtSaXMj7WQw7zGpQomFIZnoHDUx1LlIRe693rAoGBALmJ\nmV5KCwCVKME1GwhOG4ZcaGR/xFRaa36sQMROAqli3rlX6+PDaC2cGp51ldv2n+xJ\nrEtPGzmHckwIz1ObJmGgQStTPerSL7SDBRpD1ziA3hiueH7b8bHxgcaLE63oflBF\nhPpi3QxAPShzwQBH6v2SGd6WqP9EtWXTxfhSwjkfAoGAHv66P2DMbdGeq0k4Rpki\nBL/j79GenmJAmTnaxLVH9KDsXUxvNX0GoFqFueRsHBb+5yIPF/g7kkgKxP5C4cxm\n/iQ9aRhmdvtplmhGZ0F4jOhUnLOCunE2krVIwK4+48r0TVt/dfBXpadBMNmZNqLh\nW4StGkbK1ZmPfvdJ50Mv+C4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-api@aprozi.iam.gserviceaccount.com",
+  "client_id": "106442665651154191597",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-api%40aprozi.iam.gserviceaccount.com"
+}

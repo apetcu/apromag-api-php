@@ -1,0 +1,66 @@
+﻿id|name|imageUrl|parent_id
+1|Legume|test|
+2|Fructe|test|
+3|Alimentare|test|
+4|Flori|test|
+5|Aromatice|test|
+6|Marar|test|1
+7|Patrunjel|test|1
+8|Leustean|test|1
+9|Ridichii|test|1
+10|Rosi|test|1
+11|Rosii grase|test|1
+12|Ardei kapia|test|1
+13|Ardei galben|test|1
+14|Usturoi verde|test|1
+15|Salata verde|test|1
+16|Ceapa verde|test|1
+17|Stevie|test|1
+18|Spanac|test|1
+19|Loboda|test|1
+20|Leurda|test|1
+21|Castraveti|test|1
+22|Morcov|test|1
+23|Ceapa uscata|test|1
+24|Pastarnac radacina|test|1
+25|Fsole uscata|test|1
+26|Cartofi|test|1
+27|Cartofi dulci|test|1
+28|Varza|test|1
+29|Praz|test|1
+30|Pere|test|2
+31|Rodii|test|2
+32|Grapefruit|test|2
+33|Capsune|test|2
+34|Portoocale|test|2
+35|Mere|test|2
+36|Kiwi|test|2
+37|Cirese|test|2
+38|Visine|test|2
+39|Prune|test|2
+40|Struguri|test|2
+41|Afine|test|2
+42|Mure|test|2
+43|Merisoare|test|2
+44|Zmeura|test|2
+45|Coacaze|test|2
+46|Nuci|test|2
+47|Altele|test|2
+48|Oua|test|3
+49|Branza|test|3
+50|Cas|test|3
+51|Cascaval|test|3
+52|Lapte|test|3
+53|Smantana|test|3
+54|Unt|test|3
+55|Carne|test|3
+56|Carnati|test|3
+57|Trandafiri|test|4
+58|Lalele|test|4
+59|Altele|test|4
+60|Menta|test|5
+61|Busuioc|test|5
+62|Oregano|test|5
+63|Salvie|test|5
+64|Cimbru|test|5
+65|Soc (altele)|test|5

@@ -1,0 +1,16 @@
+POST http://localhost:8081/api/auth/register
+Content-Type: application/json
+
+{
+  "firstName": "Adrian",
+  "lastName": "Petcu",
+  "email": "salam@salam.com",
+  "role": "VENDOR",
+  "password": "password",
+  "vendor": {
+    "businessName": "Salamescu",
+    "address": "Adresa"
+  }
+}
+
+###
